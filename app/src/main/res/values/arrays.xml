@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels_nacionalidad">
+    <item>Ecuatoriano</item>
+        <item>Peruano</item>
+        <item>Argentino</item>
+    </string-array>
+
+    <string-array name="labels_genero">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+</resources>
